@@ -1,4 +1,4 @@
-# fintech-deep-learning-homework
+# Fintech-Deep-Learning-Homework
 
 This repository contains the Jupyter notebook, accompanied with the deep learning  model as part of the Fintech homework assignment Unit14- LSTM Stock Predictor.
 
